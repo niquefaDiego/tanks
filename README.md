@@ -18,6 +18,10 @@ Main menu:
 
 ![Main Menu](screenshots/main_menu.png)
 
+Single player menu:
+
+![Single player menu](screenshots/single_player_menu.png)
+
 Team Deathmatch:
 
 ![Team Deatchmatch Screenshot](screenshots/team_death_match.png)
@@ -26,6 +30,6 @@ Capture the flag:
 
 ![Capture The Flag Screenshot](screenshots/capture_the_flag.png)
 
-And also play the above game types in a custom map created with the map editor:
+Map Editor:
 
 ![Map Editor](screenshots/map_editor.png)
